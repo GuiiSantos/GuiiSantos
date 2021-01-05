@@ -19,7 +19,7 @@
 
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiSantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)tats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiisantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
