@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiSantos&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSantos&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
