@@ -1,6 +1,6 @@
 <br><br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuiiSantos&show_icons=true&count_private=true)<br><br>
+<!-- [Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuiiSantos&show_icons=true&count_private=true)<br><br -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiisantos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
