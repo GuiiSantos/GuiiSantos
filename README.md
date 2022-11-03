@@ -1,7 +1,7 @@
 ## Olá, meu nome é Guilherme! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-**ViniciusCavalcanteSantos/ViniciusCavalcanteSantos**
+**guiisantos/guiisantos**
 
 - 🔭 Estou trabalhando em um projeto escolar
 - 🌱 Estou estudando front-end/back-end
